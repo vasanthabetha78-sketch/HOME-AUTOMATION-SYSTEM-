@@ -12,7 +12,6 @@
 *MENTOR*: NEELA SANTOSH
 
 ##DESCRIPTION:
-# Home Automation System – Hardware Project Brief Explanation
 
 A **Home Automation System** is a modern hardware-based project that allows users to control and monitor household appliances automatically or remotely. The main objective of this project is to make homes smarter, safer, more energy-efficient, and more convenient for users. With the rapid development of embedded systems and Internet of Things (IoT) technologies, home automation has become an important application in modern residential buildings.
 
