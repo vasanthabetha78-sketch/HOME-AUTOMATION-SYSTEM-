@@ -28,3 +28,6 @@ One of the major advantages of this project is energy conservation. By automatin
 The Home Automation System project provides practical knowledge of microcontrollers, sensors, relays, communication modules, and embedded programming. It helps students understand the working principles of automation and IoT-based systems. The project can be further expanded by integrating voice control, cloud monitoring, artificial intelligence, and advanced security features.
 
 In conclusion, the Home Automation System is an innovative hardware project that combines automation, wireless communication, and sensor technologies to create a smart living environment. It offers improved convenience, enhanced security, efficient energy management, and remote accessibility. This project demonstrates how modern technology can be effectively used to simplify daily activities and improve the quality of life in residential settings. It serves as an excellent example of the practical application of embedded systems and IoT in solving real-world problems.
+
+##OUTPUT:
+<img width="1448" height="1086" alt="Image" src="https://github.com/user-attachments/assets/981a5e63-d5bf-46db-aaf9-50555647875d" />
